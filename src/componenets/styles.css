@@ -1,0 +1,15 @@
+.image-slider {
+  /* width: 700px; */
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #edcb96;
+  display: flex;
+  /* overflow-x: scroll; */
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+  margin: 10px;
+}
